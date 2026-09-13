@@ -19,3 +19,18 @@ Thrustmaster TCA Throttle Quadrant without the side panels
 
 
 
+
+
+# September 12: CADDING TIME!!!!
+
+So far Onshape seems to really work well with moving parts and assemblies. I also love that since everything is cloud based I can use even something like my school chromebook to continue working on it, which is awesome. Although learning mates was a little tricky, I think I am in full swing into this project and feel confident that this will come out well.
+
+Working on the main assembly of the throttle housing including the rotating mechanism for the thrust levers, which will use a B10K potentiometer!
+<img width="3539" height="1799" alt="image" src="https://github.com/user-attachments/assets/da8bdf5c-1a71-42b8-ad76-12eb505e1b55" />
+
+<img width="505" height="465" alt="image" src="https://github.com/user-attachments/assets/c828ecb1-14b1-4fe2-9a92-506993128fa6" />
+
+**Total time spent (recorded in lapse only): 1 hr 45 min**
+
+
+
